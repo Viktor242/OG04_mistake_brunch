@@ -1,3 +1,2 @@
-def sum (s,b):
-    return s + b
-
+def hello():
+    print("Hello world")
