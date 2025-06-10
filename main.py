@@ -1,2 +1,3 @@
-def hello(name):
-    print(f"Hello {name}")
+def delete (a,b):
+    return a - b
+
