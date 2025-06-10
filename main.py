@@ -1,3 +1,3 @@
-def delete (a,b):
-    return a - b
+def delete (s,b):
+    return s - b
 
