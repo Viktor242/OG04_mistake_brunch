@@ -1,3 +1,3 @@
-def delete (s,b):
-    return s - b
+def sum (s,b):
+    return s + b
 
